@@ -23,3 +23,5 @@
 	1. item 1
 
 [go to google](http://www.google.com)
+
+> This is an awesome quote.
