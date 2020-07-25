@@ -26,11 +26,11 @@
 
 > This is an awesome quote.
 
-```python
-i=0
-while i<=5:
-	print(i)
-	i+=1
-```
+
+	i=0
+	while i<=5:
+		print(i)
+		i+=1
+
 
 Hey why dont you use the `<center>` tag here?
