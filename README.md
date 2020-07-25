@@ -43,4 +43,5 @@ Hey why dont you use the `<center>` tag here?
 | ---  | --- |
 | Aryan | 14 |
 | Dattaprasad Naik | 30 |
- 
+
+:wink: 
