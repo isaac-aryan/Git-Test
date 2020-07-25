@@ -6,6 +6,6 @@
 
 #### Change made.
 
-##### Line 5
+##### *Italic Text*
 
-###### Line 6
+###### **Bold Text**
