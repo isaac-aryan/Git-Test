@@ -45,3 +45,5 @@ Hey why dont you use the `<center>` tag here?
 | Dattaprasad Naik | 30 |
 
 :wink: 
+
+[Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
