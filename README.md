@@ -25,3 +25,8 @@
 [go to google](http://www.google.com)
 
 > This is an awesome quote.
+
+i=0
+while i<=5:
+	print(i)
+	i+=1
