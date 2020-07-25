@@ -34,3 +34,7 @@
 
 
 Hey why dont you use the `<center>` tag here?
+
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
